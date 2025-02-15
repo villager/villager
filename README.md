@@ -22,4 +22,3 @@ I'm passionate about software development, open source, and community building. 
 </table>
 
 Thanks for stopping by! Have a great day! 😊
-```` ▋
