@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Villager! 👋
 
-<!--
-**villager/villager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development, open source, and community building. I love exploring new technologies and finding innovative solutions to complex problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on various open-source projects
+- 🌱 I’m currently learning advanced algorithms and system design
+- ⚡ Fun fact: I love Pokemon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- Programming Languages: JavaScript, Python, Java, C++
+- Web Development: HTML, CSS, Node.js
+- Databases: MySQL, MongoDB, PostgreSQL
+- Cloud: AWS, Azure, GCP
+
+## 📈 GitHub Stats
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=villager&show_icons=true&theme=radical"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villager&layout=compact&theme=radical"/></td>
+  </tr>
+</table>
+
+Thanks for stopping by! Have a great day! 😊
+```` ▋
